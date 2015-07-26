@@ -1,0 +1,78 @@
+/* Layout
+================================= */
+.menu .row {margin:20px;text-align:center;}
+.menu .row img {margin:0 20px;}
+
+body {
+	padding-top: 70px;
+	background-color: #FFFFFF;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.mainImage { background: url('../images/earth-blue-marble-dscvr.jpg') no-repeat; margin-top: 40px;}
+
+
+form-group {
+	text-align: center;
+	margin: auto;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+/* Jumbotron
+======================================*/
+.rowHeader {
+	background-color: #D6655A;
+	background-repeat: repeat-x;
+}
+.jumbotron {
+	text-align: center;
+	color: #0A0500;
+	font-weight: 900;
+	font-style: italic;  /*get better font then remove this*/
+	padding: 20px 0 14px 0;
+	margin-bottom: 30px;
+}
+
+
+.headline {
+	color: #42282F;
+	font-weight: bold;
+	text-align: center;
+	background-color: #D6655A;
+	font-weight: 700;
+}
+
+.pic {
+	padding: 10px 10px 20px 10px;
+}
+.quote {
+	margin: 10px 10px 10px 10px;
+}
+.author {
+	text-align: right;
+}
+/* Footer
+======================================*/
+.main-footer {
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #d3d3d3;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.narrowpara {
+	text-align: justify;
+	max-width: 300px;
+}
+
+#mainImage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fingerprint {
+	text-align: center;	
+}

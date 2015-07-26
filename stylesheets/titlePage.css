@@ -1,0 +1,119 @@
+/* Layout
+================================= */
+
+body {
+	padding-top: 70px;
+}
+h3 {
+	text-decoration: underline;
+}
+
+form-group {
+	text-align: center;
+	margin: auto;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+.codesnippet {
+	text-align: left;
+}
+
+.btn {
+	 margin: 2px;
+}
+.buttonpad {
+	margin-top: 30px;
+}
+
+.lead {
+	color: #EFEBDD;
+	margin-bottom: 70px;
+}
+.location {
+	max-width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ctr {
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.map{
+	text-align:center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
+/* Jumbotron
+======================================*/
+
+.jumbotron {
+	text-align: center;
+	color: #0A0500;
+	font-weight: 900;
+	font-style: italic;  /*get better font then remove this*/
+	padding: 20px 0 14px 0;
+	margin-bottom: 30px;
+}
+.starbackground {
+	background-color: #AA7243;	
+}
+
+/* Home Page Panels
+======================================*/
+.pan1 {
+	/*border: solid #000;
+	border-width: 2px;*/
+	background-color: #efebdd;
+	margin: 5px;
+}
+.copy1
+{
+	text-align: center;
+}
+.pictureset 
+{
+	width: 94%;
+	height: 420px;
+	padding-top: 5px;
+	margin: auto;
+}
+
+.credits {
+	text-align: center;
+}
+
+.trek { background: url('../images/starTrek/ship.jpg') no-repeat; margin-top: 40px;}
+.trekcopy{}
+
+.drwho { background: url('../images/DrWho/tardisOutside.jpg') no-repeat; }
+.drwhocopy {}
+
+.eureka { background: url('../images/Eureka/sarahmain.jpg') no-repeat; margin-top: 40px; }
+.eurekacopy {}
+
+.mib { background: url('../images/MIB/aliensInKitchen.jpg') no-repeat;margin-top: 40px; }
+.mibcopy {}
+
+/* Footer
+======================================*/
+.main-footer {
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #d3d3d3;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.narrowpara {
+	text-align: justify;
+	max-width: 300px;
+}
+
